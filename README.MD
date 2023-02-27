@@ -10,3 +10,8 @@
 --> What is keys, values, entries , pair, delete, seal and freeze ?
 --> When we use for of loop , for in loop ? Difference between them.
 --> What are the 3 ways to read object properties?
+--> What is distructaring of the object properties ?
+--> Comapring objects, referential integrity, give example.
+--> What is borrow method of the object properties?
+--> Describe call, apply and bind methods.
+--> 
